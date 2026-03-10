@@ -13,7 +13,8 @@ import java.net.Socket;
 public class Connection extends Thread {
 	
 	/**
-	 * canal d'entrée
+	+
+	- * canal d'entrée
 	 */
 	private ObjectInputStream in ;
 	/**
